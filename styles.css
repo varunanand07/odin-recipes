@@ -1,13 +1,21 @@
 .title {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
     text-align: center;
-    color: white;
+    color: rgb(134, 151, 107);
+    font-weight: 800;
 }
 
-* {
+.body {
     background: rgb(1, 24, 1);
 }
 
+.recipe-list{
+    color: rgba(28, 138, 3, 0.697);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-weight: 200;
+}
 a:link{
     color: rgb(100, 111, 29);
 }
@@ -17,6 +25,6 @@ a:visited {
 }
 
 a:hover{
-    color: white;
+    color: rgb(34, 105, 55);
 }
 
