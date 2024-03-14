@@ -6,18 +6,8 @@
     font-weight: 800;
 }
 
-.body {
-    background: rgb(1, 24, 1);
-}
-
-.recipe-list{
-    color: rgba(28, 138, 3, 0.697);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: larger;
-    font-weight: 200;
-}
 a:link{
-    color: rgb(100, 111, 29);
+    color: rgb(79, 89, 19);
 }
 
 a:visited {
@@ -27,4 +17,46 @@ a:visited {
 a:hover{
     color: rgb(34, 105, 55);
 }
+
+.title.lasagna {
+    color: rgb(83, 8, 8);
+}
+.title.subtitle{
+    font-size: 15px;
+    color: rgb(83, 8, 8);
+}
+.body.homepage {
+    background: rgb(1, 24, 1);
+}
+
+.recipe-list{
+    color: rgba(28, 138, 3, 0.697);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-weight: 200;
+}
+
+.body.lasagna {
+    background: rgb(220, 167, 51);
+}
+
+.paragraph{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(54, 21, 4);
+}
+
+.body.mac{
+    background-color: rgb(183, 118, 6);
+}
+
+.title.mac{
+    color: rgb(84, 40, 2);
+}
+
+.lasagna-text{
+    background-color: rgb(134, 151, 107);
+    height: auto;
+    width: 400px;
+}
+
 
